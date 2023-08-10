@@ -1,0 +1,13 @@
+---
+title: "Glaciers"
+author: "suncloud"
+date: "2023-07"
+categories: [Python, Jupyter Book]
+image: "glaciers.png"
+---
+
+Exploratory Data Analysis of the GLIMS Dataset.
+
+Preview the work in progress:
+
+[Link to Project](https://sunny-netizen.github.io/GLIMS/glims_notebooks/introglims.html "GlIMS EDA")

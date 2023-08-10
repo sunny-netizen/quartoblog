@@ -1,0 +1,13 @@
+---
+title: "Dendrogram"
+author: "suncloud"
+date: "2023-03"
+categories: [D3]
+image: "tree.png"
+---
+
+Hierarchical structure of road network of Europe.
+
+[Link to Project](https://sunny-netizen.github.io/portfolio/html/tree.html)
+
+Hierarchical tree visualizes the mergers of percolation clusters of the road network of continental Europe. This was visualized for my dissertation.

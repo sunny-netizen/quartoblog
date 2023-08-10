@@ -1,0 +1,15 @@
+---
+title: "Percolation"
+author: "suncloud"
+date: "2023-02"
+categories: [Python, OSMnx]
+image: "cityoflondon.png"
+---
+
+Percolation process on the City of London road network.
+
+![](cityoflondon.png)
+
+[Link to Project](https://sunny-netizen.github.io/portfolio/html/london.html)
+
+This is a mini version of percolation analysis used in my dissertation.

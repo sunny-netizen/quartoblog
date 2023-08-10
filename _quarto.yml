@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "sunny y z"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/sunny-netizen
+format:
+  html:
+    theme: quartz
+    css: styles.css
+
+editor: visual
+
